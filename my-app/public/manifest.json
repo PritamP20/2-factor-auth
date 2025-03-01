@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Chrome Extension Demo",
+  "description": "React Chrome Extension",
+  "version": "1.0.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open"
+  },
+  "permissions": ["scripting"]
+}
